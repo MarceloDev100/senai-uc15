@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Chapter.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Chapter.WebApi.Controllers.LivroController.Listar">
+            <summary>
+            Lista os livros cadastrados.
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.LivroController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um livro por id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.LivroController.Cadastrar(Chapter.WebApi.Models.Livro)">
+            <summary>
+            Cadastra um livro.
+            </summary>
+            <param name="livro"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.LivroController.Atualizar(System.Int32,Chapter.WebApi.Models.Livro)">
+            <summary>
+            Atualiza um livro.
+            </summary>
+            <param name="id"></param>
+            <param name="livro"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.LivroController.Deletar(System.Int32)">
+            <summary>
+            Apaga um livro.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.LoginController.Login(Chapter.WebApi.ViewModels.LoginViewModel)">
+            <summary>
+            Método para fazer o login no sistema
+            </summary>
+            <param name="login"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.UsuariosController.Listar">
+            <summary>
+            Lista os usuários cadastrados.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.UsuariosController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um usuário por id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.UsuariosController.Cadastrar(Chapter.WebApi.Models.Usuario)">
+            <summary>
+            Cadastra um usuário.
+            </summary>
+            <param name="usuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.UsuariosController.Alterar(System.Int32,Chapter.WebApi.Models.Usuario)">
+            <summary>
+            Altera um usuário.
+            </summary>
+            <param name="id"></param>
+            <param name="usuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Chapter.WebApi.Controllers.UsuariosController.Deletar(System.Int32)">
+            <summary>
+            Apaga um usuário.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
