@@ -1,0 +1,12 @@
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\bin\Debug\net6.0\ProjetoTesteFST.deps.json
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\bin\Debug\net6.0\ProjetoTesteFST.dll
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\bin\Debug\net6.0\ProjetoTesteFST.pdb
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.dll
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\refint\ProjetoTesteFST.dll
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ProjetoTesteFST.pdb
+C:\Users\marce\OneDrive\Documentos\ProjetoTesteFST\ProjetoTesteFST\obj\Debug\net6.0\ref\ProjetoTesteFST.dll

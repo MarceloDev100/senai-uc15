@@ -1,0 +1,24 @@
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\bin\Debug\net6.0\ProjetoIMCTeste.deps.json
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\bin\Debug\net6.0\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\bin\Debug\net6.0\ProjetoIMCTeste.pdb
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\refint\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.pdb
+C:\Users\marce\OneDrive\Documentos\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ref\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\bin\Debug\net6.0\ProjetoIMCTeste.deps.json
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\bin\Debug\net6.0\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\bin\Debug\net6.0\ProjetoIMCTeste.pdb
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\refint\ProjetoIMCTeste.dll
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ProjetoIMCTeste.pdb
+C:\Users\marce\OneDrive\Documentos\UC15- EntregaTrabalhos\Testes Unidade - Visual Studio\ProjetoIMCTeste\ProjetoIMCTeste\obj\Debug\net6.0\ref\ProjetoIMCTeste.dll
